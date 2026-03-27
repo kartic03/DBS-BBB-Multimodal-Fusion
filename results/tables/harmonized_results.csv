@@ -1,0 +1,10 @@
+Model,AUC,Std
+SVM-LFP (harmonized),0.9946,0.0053
+RF-LFP (harmonized),0.9983,0.0010
+XGB-LFP (harmonized),0.9873,0.0110
+XGB-BBB,0.7524,0.0416
+XGB-Fusion (harmonized),0.9924,0.0063
+XGB-LFP (harmonized) [OpenNeuro LOOCV],0.4228,n=33
+XGB-Fusion (harmonized) [OpenNeuro LOOCV],0.4412,n=33
+XGB-LFP (harmonized) [PESD→OpenNeuro],0.4338,Acc=0.4848
+XGB-Fusion (harmonized) [PESD→OpenNeuro],0.4669,Acc=0.5152

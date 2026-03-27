@@ -1,0 +1,4 @@
+Comparison,AUC_A,AUC_B,AUC_diff,Z,p_value,Sig
+LFP Transformer vs Fusion,0.9667,0.9850,0.0182,-2.6535,0.007967,**
+BBB MLP vs Fusion,0.7529,0.9850,0.2320,-12.2028,0.000000,***
+Transformer vs BBB MLP,0.9667,0.7529,0.2138,10.9560,0.000000,***

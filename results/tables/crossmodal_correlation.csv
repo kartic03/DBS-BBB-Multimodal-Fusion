@@ -1,0 +1,6 @@
+Metric,Value
+Mean |Spearman r|,0.0586
+Max |Spearman r|,0.1954
+Pairs with |r|>0.3,0
+Total pairs,1360
+Interpretation,Low cross-modal correlation confirms modalities are complementary

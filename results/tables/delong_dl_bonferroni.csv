@@ -1,0 +1,4 @@
+Comparison,AUC_A,AUC_B,AUC_diff,Z,p_value,Sig,p_value_float,p_bonferroni,Sig_corrected
+LFP Transformer vs Fusion,0.9667,0.985,0.0182,-2.6535,0.007967,**,0.007967,0.023901,*
+BBB MLP vs Fusion,0.7529,0.985,0.232,-12.2028,0.0,***,0.0,0.0,***
+Transformer vs BBB MLP,0.9667,0.7529,0.2138,10.956,0.0,***,0.0,0.0,***

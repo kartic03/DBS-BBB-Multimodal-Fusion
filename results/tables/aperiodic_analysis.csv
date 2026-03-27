@@ -1,0 +1,9 @@
+Feature,PD_mean,HC_mean,Cohen_d,p_value,Significant
+lfp_aperiodic_slope,-0.0246,-0.8332,1.477,4.43e-78,***
+lfp_aperiodic_slope_std,0.1680,0.3850,-4.132,2.79e-83,***
+lfp_aperiodic_intercept,-1.9742,-1.0639,-1.496,4.39e-78,***
+lfp_aperiodic_intercept_std,0.2244,0.3833,-2.264,5.63e-82,***
+lfp_beta_power,0.2971,0.1757,2.806,3.17e-78,***
+lfp_beta_power_std,0.0507,0.1810,-3.279,4.63e-60,***
+lfp_beta_rel_power,0.3069,0.1990,2.170,4.80e-78,***
+lfp_beta_rel_power_std,0.0436,0.0457,-0.319,1.01e-31,***

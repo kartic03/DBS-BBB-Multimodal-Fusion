@@ -1,0 +1,7 @@
+Model,AUC,Accuracy,F1,Analysis
+SVM (RBF) - LFP,0.5184,0.4848,0.6531,Cross-source (PESD→OpenNeuro)
+Random Forest - LFP,0.6673,0.5152,0.0000,Cross-source (PESD→OpenNeuro)
+XGBoost - LFP,0.5018,0.5152,0.0000,Cross-source (PESD→OpenNeuro)
+XGBoost Early Fusion,0.5551,0.5152,0.0000,Cross-source (PESD→OpenNeuro)
+XGBoost - LFP (LOOCV),0.5331,0.4242,,OpenNeuro LOOCV (n=33)
+XGBoost Early Fusion (LOOCV),0.4853,0.5152,,OpenNeuro LOOCV (n=33)

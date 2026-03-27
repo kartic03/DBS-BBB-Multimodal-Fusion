@@ -1,0 +1,50 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.egg-info/
+.eggs/
+dist/
+build/
+
+# Environment
+.env
+*.env
+.venv/
+env/
+
+# Data (too large for git — available from public sources)
+data/raw/
+data/processed/lfp_features/lfp_raw_epochs.npy
+data/processed/lfp_features/lfp_spectrograms.npy
+
+# Model checkpoints (too large — available on HuggingFace)
+results/checkpoints/*.pt
+results/checkpoints/*.json
+results/checkpoints/*.npz
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Jupyter
+.ipynb_checkpoints/
+
+# HuggingFace Space staging
+hf_space/
+
+# LaTeX auxiliary
+paper/*.aux
+paper/*.log
+paper/*.out
+paper/*.synctex.gz
+paper/*.fls
+paper/*.fdb_latexmk
+paper/*.bbl
+paper/*.blg

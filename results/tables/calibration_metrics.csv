@@ -1,0 +1,4 @@
+Model,Brier_Score,ECE,Source
+LFP Transformer,0.0201,0.0189,fig_calibration.png
+BBB MLP,0.1838,0.1503,fig_calibration.png
+Cross-Attention Fusion,0.0164,0.0136,fig_calibration.png

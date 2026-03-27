@@ -1,0 +1,19 @@
+subject_id,true_label,predicted_label,predicted_prob,error_type,source
+on_sub-0cGdk9_MedOn_run-1,0,1,0.810009241104126,False Positive,openneuro
+on_sub-2IU8mi_MedOn_run-1_split-01,0,1,0.6715887188911438,False Positive,openneuro
+on_sub-2IU8mi_MedOn_run-2,0,1,0.9578022360801697,False Positive,openneuro
+on_sub-AbzsOg_MedOn_run-1_split-01,0,1,0.7539973258972168,False Positive,openneuro
+on_sub-AbzsOg_MedOn_run-2,0,1,0.6998826861381531,False Positive,openneuro
+on_sub-FYbcap_MedOn_run-1,0,1,0.5125051140785217,False Positive,openneuro
+on_sub-PuPVlx_MedOn_run-2,0,1,0.613655686378479,False Positive,openneuro
+on_sub-dCsWjQ_MedOn_run-1_split-01,0,1,0.5438743233680725,False Positive,openneuro
+on_sub-dCsWjQ_MedOn_run-2,0,1,0.8493779897689819,False Positive,openneuro
+on_sub-gNX5yb_MedOn_run-1,0,1,0.5554112792015076,False Positive,openneuro
+on_sub-oLNpHd_MedOn_run-2,0,1,0.7480427026748657,False Positive,openneuro
+on_sub-2IU8mi_MedOff_run-1,1,0,0.1537756770849228,False Negative,openneuro
+on_sub-AB2PeX_MedOff_run-2,1,0,0.1490464210510254,False Negative,openneuro
+on_sub-AbzsOg_MedOff_run-2,1,0,0.3925585150718689,False Negative,openneuro
+on_sub-FYbcap_MedOff_run-1,1,0,0.0780712366104126,False Negative,openneuro
+on_sub-hnetKS_MedOff_run-1,1,0,0.11375255137681961,False Negative,openneuro
+on_sub-i4oK0F_MedOff_run-1,1,0,0.049408044666051865,False Negative,openneuro
+on_sub-oLNpHd_MedOff_run-1_split-01,1,0,0.038076646625995636,False Negative,openneuro

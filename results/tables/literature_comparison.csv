@@ -1,0 +1,9 @@
+Study,Year,Journal,N,Data,Model,AUC,Task
+Habets et al.,2020,PeerJ,89,Clinical only,Logistic Regression,0.79,DBS motor response
+Habets et al.,2022,Stereotact Funct Neurosurg,322,Clinical only,Logistic Regression,0.76,DBS motor response (multicenter)
+Boutet et al.,2021,Nat Commun,67,fMRI,ML classifier,0.88,DBS parameter optimization
+Hirschmann et al.,2022,Brain Stimulation,36,MEG + LFP,Gradient Boosted Trees,0.8,DBS outcome (r>0.80)
+Ferrea et al.,2024,npj Dig Med,63,LFP + clinical,Explainable ML,,DBS QoL prediction
+Biesheuvel et al.,2025,DBS Journal,420,Clinical only,ML regression,,UPDRS-III prediction (RMSE=9.1)
+ModFus-PD,2025,Front Comp Neuro,0,MRI + clinical text,Cross-attention,0.892,PD diagnosis
+Ours (proposed),2026,DBS Journal,757,LFP + BBB biomarkers,Cross-attention Transformer,0.995,DBS candidacy (multimodal)
